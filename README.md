@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Warren Dira</h1>
-<h3 align="center">A full-stack web developer, pivoting from a Corporate Buyer/Planner role. I've honed skills of being a seasoned businessman and secured many successes along the way. Ready to provide turn-key ROI to a tech company will give me a shot.</h3>
+<h3 align="center">A full-stack web developer, pivoting from a Corporate Buyer/Planner role. I've honed skills of being a seasoned businessman and secured many successes along the way. Ready to provide turn-key ROI to a tech company who will give me a shot.</h3>
 <img align="right" alt="bmo" width="400" src="https://i.gifer.com/6t7K.gif">
 
 
