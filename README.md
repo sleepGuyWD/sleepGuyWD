@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Warren Dira</h1>
 <h3 align="center">A full-stack web developer, pivoting from a Corporate Buyer/Planner role. I've honed skills of being a seasoned businessman and secured many successes along the way. Ready to provide turn-key ROI to a tech company who will give me a shot.</h3>
-<img align="right" alt="bmo" width="400" src="https://i.gifer.com/6t7K.gif">
+<img align="right" alt="bmo" width="400" src="https://art.pixilart.com/824a7f42ef40fa7.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sleepguywd&label=Profile%20views&color=0e75b6&style=flat" alt="sleepguywd" /> </p>
