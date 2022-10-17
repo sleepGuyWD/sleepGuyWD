@@ -1,4 +1,4 @@
-[![](https://orig00.deviantart.net/4da4/f/2018/125/c/6/city_divider__re_edit__by_king_lulu_deer-dcaozvd.gif](https://github.com/sleepGuyWD)
+[![](https://orig00.deviantart.net/0ef4/f/2018/163/8/8/_custom_box_background__aesthetic_is_dead_by_king_lulu_deer-dce61tw.gif)](https://github.com/sleepGuyWD)
 <h1 align="center">Hi 👋, I'm Warren Dira</h1>
 <h3 align="center">A full-stack web developer, pivoting from a Corporate Buyer/Planner role. I've honed skills of being a seasoned businessman and secured many successes along the way. Ready to provide turn-key ROI to a tech company who will give me a shot.</h3>
 <img align="right" alt="bmo" width="400" src="https://art.pixilart.com/824a7f42ef40fa7.gif">
@@ -28,8 +28,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sleepguywd&show_icons=true&locale=en" alt="sleepguywd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sleepguywd&show_icons=true&locale=en&theme=outrun " alt="sleepguywd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sleepguywd&" alt="sleepguywd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sleepguywd&theme=github-dark-blue" alt="sleepguywd" /></p>
 
-<p><img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sleepguywd&show_icons=true&locale=en&layout=compact" alt="sleepguywd" /></p>
+<p><img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sleepguywd&show_icons=true&locale=en&layout=compact&theme=github-dark " alt="sleepguywd" /></p>
