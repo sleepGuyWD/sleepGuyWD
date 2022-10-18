@@ -28,9 +28,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 ## Github Stats
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sleepguywd&show_icons=true&theme=github_dark" alt="sleepguywd" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sleepguywd&theme=github-dark-blue" alt="sleepguywd" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sleepguywd&show_icons=true&theme=github_dark" alt="sleepguywd" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sleepguywd&theme=github-dark-blue" alt="sleepguywd" />
 
 <p align="center">
   <img style="text-align: center;" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sleepguywd&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="sleepguywd"/>
@@ -39,6 +39,6 @@
 
 ## Connect with me
 <p align="left">
-<a href="https://twitter.com/sleepguywd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sleepguywd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/warrendira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="warrendira" height="30" width="40" /></a>
+  <a href="https://twitter.com/sleepguywd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sleepguywd" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/warrendira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="warrendira" height="30" width="40" /></a>
 </p>
