@@ -32,9 +32,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sleepguywd&show_icons=true&theme=github_dark" alt="sleepguywd" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sleepguywd&theme=github-dark-blue" alt="sleepguywd" />
 
-
-  <img style="text-align: center;" width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sleepguywd&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="sleepguywd"/>
+<p align="center">
+  <img style="text-align: center;" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sleepguywd&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="sleepguywd"/>
 </div>
+</p>
 
 ## Connect with me
 <p align="left">
