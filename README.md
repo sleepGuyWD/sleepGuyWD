@@ -4,14 +4,11 @@
 <img align="right" alt="bmo" width="400" src="https://art.pixilart.com/824a7f42ef40fa7.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sleepguywd&label=Profile%20views&color=0e75b6&style=flat" alt="sleepguywd" /> </p>
-
-
-<p align="left"> <a href="https://twitter.com/sleepguywd" target="blank"><img src="https://img.shields.io/twitter/follow/sleepguywd?logo=twitter&style=for-the-badge" alt="warrendeann" /></a> </p>
+## What's going on?
 
 - 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **Javascript, PHP, Azure Cloud Cert**
+- 🌱 I’m currently learning **Javascript, Figma, Advanced Web Layouts**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -33,7 +30,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sleepguywd&theme=github-dark-blue" alt="sleepguywd" />
 
 <p align="center">
-  <img style="text-align: center;" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sleepguywd&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="sleepguywd"/>
+  <img style="text-align: center;" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sleepguywd&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="sleepguywd"/>
 </div>
 </p>
 
@@ -41,4 +38,8 @@
 <p align="left">
   <a href="https://twitter.com/sleepguywd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sleepguywd" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/warrendira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="warrendira" height="30" width="40" /></a>
-</p>
+ </p>
+<div style="display: flex; justify-content: space-between;  flex-direction: row;">
+  <a href="https://twitter.com/sleepguywd" target="blank"><img width="17%" src="https://img.shields.io/twitter/follow/sleepguywd?logo=twitter&style=for-the-badge" alt="warrendeann" /></a> 
+  <img src="https://komarev.com/ghpvc/?username=sleepguywd&label=Profile%20views&color=0e75b6&style=flat" alt="sleepguywd" />
+</div>
