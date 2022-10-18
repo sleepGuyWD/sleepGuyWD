@@ -29,8 +29,8 @@
 
 ## Github Stats
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sleepguywd&show_icons=true&theme=github_dark" alt="sleepguywd" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sleepguywd&theme=github-dark-blue" alt="sleepguywd" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=sleepguywd&show_icons=true&theme=github_dark" alt="sleepguywd" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=sleepguywd&theme=github-dark-blue" alt="sleepguywd" />
 
 <p align="center">
   <img style="text-align: center;" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sleepguywd&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="sleepguywd"/>
