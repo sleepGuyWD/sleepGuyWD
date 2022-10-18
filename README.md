@@ -40,6 +40,6 @@
   <a href="https://linkedin.com/in/warrendira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="warrendira" height="30" width="40" /></a>
  </p>
 <div style="display: flex; justify-content: space-between;  flex-direction: row;">
-  <a href="https://twitter.com/sleepguywd" target="blank"><img width="17%" src="https://img.shields.io/twitter/follow/sleepguywd?logo=twitter&style=for-the-badge" alt="warrendeann" /></a> 
+  <a href="https://twitter.com/sleepguywd" target="blank"><img width="17.5%" src="https://img.shields.io/twitter/follow/sleepguywd?logo=twitter&style=for-the-badge" alt="warrendeann" /></a> 
   <img src="https://komarev.com/ghpvc/?username=sleepguywd&label=Profile%20views&color=0e75b6&style=flat" alt="sleepguywd" />
 </div>
