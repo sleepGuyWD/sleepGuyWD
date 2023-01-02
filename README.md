@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **Javascript, Figma, Advanced Web Layouts**
+- 🌱 I’m currently learning **Javascript, Tailwind CSS, Advanced Web Layouts**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
