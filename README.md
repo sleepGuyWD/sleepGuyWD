@@ -1,6 +1,6 @@
-[![](https://orig00.deviantart.net/0ef4/f/2018/163/8/8/_custom_box_background__aesthetic_is_dead_by_king_lulu_deer-dce61tw.gif)](https://github.com/sleepGuyWD)
-<h1 align="center">Hi 👋, I'm Warren D</h1>
-<h3 align="center">A full-stack web developer. I've honed skills of being a seasoned businessman and secured many successes along the way. Ready to provide turn-key ROI to a tech company who will give me a shot.</h3>
+
+<h1 align="center">Full-stack Web Developer.</h1>
+<h4 align="Left">Hi 👋, I'm Warren D. Learning about all-things tech-related excites me. Seeking knowledge on how to make or break things is an addiction. My background is a blend of business and finance. Ready to provide turn-key ROI to a hiring tech company!</h3>
 <img align="right" alt="bmo" width="400" src="https://art.pixilart.com/824a7f42ef40fa7.gif">
 
 
